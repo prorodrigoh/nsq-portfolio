@@ -49,10 +49,6 @@
     {
       "name": "Gallery",
       "href": "/gallery"
-    },
-    {
-      "name": "Contact",
-      "href": "/contact"
     }
   ],
   "research": {
@@ -134,18 +130,6 @@
             "role": "Postdoc, Institute of Environment",
             "researchFocus": "NTA Solution Project funded by EPA STAR",
             "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/rkurNdeXlr-ZHJHmYOv9z.jpg"
-          },
-          {
-            "name": "Macarena Rojo",
-            "role": "Postdoctoral Research Associate, Institute of Environment",
-            "researchFocus": "PFAS research with LC-MS/MS and HRMS",
-            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/epDXkM0pVtW59Wo8G5YQH.jpeg"
-          },
-          {
-            "name": "Maria Eugenia Guerra de Navarro",
-            "role": "Postdoctoral Researcher, Institute of Environment",
-            "researchFocus": "PFAS detection in urban aquatic environments",
-            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/405512d826d14e928ea97e5152d08285/original/Maria-Eugenia.jpg"
           }
         ]
       },
@@ -175,7 +159,7 @@
             "name": "Md. Abdur Razzaq",
             "role": "PhD student, Chemistry & Biochemistry",
             "researchFocus": "SPME-GC-MS/MS for volatile FTOHs in air and PFAS modelling in surface and groundwater",
-            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/7b6954198e844237a18c9ca9d5be839a/original/Abdur.jpg"
+            "imageUrl": "/md-abdur-razzaq.jpeg"
           },
           {
             "name": "Maria Mendoza Manzano",
@@ -193,7 +177,7 @@
             "name": "Md. Rubel Anwar",
             "role": "PhD student Chemistry & Biochemistry (FIU Presidential PhD fellow)",
             "researchFocus": "PFAS in stormwater, wastewater and urine samples.",
-            "imageUrl": null
+            "imageUrl": "/md-rubel-anwar.jpeg"
           },
           {
             "name": "Erick Dias Campanelli",
@@ -204,21 +188,21 @@
         ]
       },
       {
-        "id": "masters",
-        "categoryName": "Master's Student",
-        "members": [
-          {
-            "name": "Andy Distrubell",
-            "role": "Master's student, Earth and Environment (co-advised with Jennifer Rehage)",
-            "researchFocus": "Emerging contaminants (PFAS) in red drum fish",
-            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/ab7356ca3c594739a80d495a6f308b4b/original/image.png"
-          }
-        ]
-      },
-      {
         "id": "prior-postdocs",
         "categoryName": "Prior Postdocs",
         "members": [
+          {
+            "name": "Macarena Rojo",
+            "role": "Postdoctoral Research Associate, Institute of Environment",
+            "researchFocus": "PFAS research with LC-MS/MS and HRMS",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/epDXkM0pVtW59Wo8G5YQH.jpeg"
+          },
+          {
+            "name": "Maria Eugenia Guerra de Navarro",
+            "role": "Postdoctoral Researcher, Institute of Environment",
+            "researchFocus": "PFAS detection in urban aquatic environments",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/405512d826d14e928ea97e5152d08285/original/Maria-Eugenia.jpg"
+          },
           {
             "name": "Bahareh Tajdini",
             "role": "Postdoc, Institute of Environment at FIU (August 2024 – January 2025)",
@@ -257,23 +241,29 @@
         "members": [
           {
             "name": "Xuerong Li",
-            "role": "Alumni PhD / Master Student"
+            "role": "Alumni PhD / Master Student",
+            "imageUrl": "/xuerong-li.jpg"
           },
           {
             "name": "Olutobi Daniel Ogunbiyi",
-            "role": "Alumni PhD / Master Student"
+            "role": "Alumni PhD / Master Student",
+            "imageUrl": "/olutobi-daniel-ogunbiyi.jpg"
           },
           {
             "name": "Courtney Heath",
-            "role": "Alumni PhD / Master Student"
+            "role": "Alumni PhD / Master Student",
+            "imageUrl": "/courtney-heath.png"
           },
           {
             "name": "Andy Distrubell",
-            "role": "Alumni PhD / Master Student"
+            "role": "Master's student, Earth and Environment (co-advised with Jennifer Rehage)",
+            "researchFocus": "Emerging contaminants (PFAS) in red drum fish",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/ab7356ca3c594739a80d495a6f308b4b/original/image.png"
           },
           {
             "name": "Maria Eugenia Guerra de Navarro",
-            "role": "Alumni PhD / Master Student"
+            "role": "Alumni PhD / Master Student",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/405512d826d14e928ea97e5152d08285/original/Maria-Eugenia.jpg"
           }
         ]
       },
@@ -283,11 +273,13 @@
         "members": [
           {
             "name": "Monica Perez",
-            "role": "Prior Research Staff"
+            "role": "Prior Research Staff",
+            "imageUrl": "/monica-perez.jpg"
           },
           {
             "name": "Emily Meijas",
-            "role": "Prior Research Staff"
+            "role": "Prior Research Staff",
+            "imageUrl": "/emily-mejias.png"
           },
           {
             "name": "Lisandra Menendez",

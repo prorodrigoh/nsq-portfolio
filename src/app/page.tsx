@@ -159,7 +159,7 @@ export default function HomePage() {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {team.categories[0].members.slice(0, 2).concat(team.categories[1].members.slice(0, 2)).map((member, idx) => (
+            {[...team.categories[0].members, ...team.categories[1].members.slice(0, 3)].map((member, idx) => (
               <div
                 key={idx}
                 className="glass-card rounded-2xl overflow-hidden border border-[#D8E2EE] flex flex-col justify-between group"

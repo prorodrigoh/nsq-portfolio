@@ -148,6 +148,12 @@ export default function Footer() {
                 {nav.name}
               </Link>
             ))}
+            <Link
+              href="/contact"
+              className="hover:text-white transition-colors font-medium"
+            >
+              Contact
+            </Link>
           </div>
 
           <div className="flex items-center gap-2 text-center md:text-right">
