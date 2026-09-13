@@ -9,10 +9,6 @@ import {
   ArrowRight,
   FlaskConical,
   Users,
-  Award,
-  BookOpen,
-  DollarSign,
-  MapPin,
   ChevronRight,
   CheckCircle2,
   Cpu

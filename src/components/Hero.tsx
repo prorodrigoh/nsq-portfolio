@@ -4,7 +4,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import siteContent from "@/data/siteContent";
-import { BookOpen, FlaskConical, Mail, ExternalLink, Award, MapPin } from "lucide-react";
+import { BookOpen, FlaskConical, Mail, ExternalLink, MapPin } from "lucide-react";
 
 export default function Hero() {
   const { profile } = siteContent;

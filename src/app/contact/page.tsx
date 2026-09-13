@@ -8,7 +8,6 @@ import {
   Mail,
   Building2,
   ExternalLink,
-  GraduationCap,
   Globe
 } from "lucide-react";
 
