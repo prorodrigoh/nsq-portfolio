@@ -1,0 +1,836 @@
+{
+  "profile": {
+    "name": "Dr. Natalia Quinete",
+    "title": "Associate Professor in Department of Chemistry & Biochemistry and the Institute of Environment at Florida International University (FIU)",
+    "bio": "Dr. Natalia Quinete is a distinguished academic and researcher, recognized for her significant contributions to the fields of environmental analytical chemistry. Her pioneering work focuses on unraveling complex environmental processes and developing innovative solutions for a sustainable future.",
+    "headshotUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/542ef05d9f8e4697ba24050e2c883800/original/Headshot-Natalia.jpeg",
+    "instituteLogoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/026cc842f86b4c628fac62252bd69608/original/Inst-WaterEnvironment-hrz-COLOR.png",
+    "fiuSealUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/2d0d18d676224fe6863cd96839a1f317/original/image.png",
+    "googleScholarUrl": "https://scholar.google.com/citations?hl=en&user=z697KEMAAAAJ&view_op=list_works&sortby=pubdate",
+    "email": "nsoaresq@fiu.edu",
+    "officePhone": "(305) 919-5555",
+    "labPhone": "(305) 919-1234",
+    "location": {
+      "campus": "Biscayne Bay Campus",
+      "address": "3000 NE 151st Street, North Miami, FL 33181",
+      "description": "Located at 3000 NE 151st Street, North Miami, FL 33181, the campus provides unique access to marine environments for environmental research.",
+      "buildingNote": "The Marine Science Building houses cutting-edge research facilities and offers proximity to coastal ecosystems for field studies.",
+      "campusImageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/90ff415cb74b48928c26160f0681bfea/original/image.png"
+    },
+    "labName": "Emerging Contaminants of Concern (ECC) Research Laboratory - ECC lab",
+    "labShortName": "ECC Lab",
+    "labLogoUrl": "/Lab-logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "href": "/"
+    },
+    {
+      "name": "Research",
+      "href": "/research"
+    },
+    {
+      "name": "Our Team",
+      "href": "/team"
+    },
+    {
+      "name": "Publications",
+      "href": "/publications"
+    },
+    {
+      "name": "Grants & News",
+      "href": "/news"
+    },
+    {
+      "name": "Teaching",
+      "href": "/teaching"
+    },
+    {
+      "name": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "name": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "research": {
+    "sectionTitle": "Research Focus Areas",
+    "overview": "Dr. Quinete's lab is dedicated to advancing environmental science by focusing on critical research areas, supported by cutting-edge analytical methods.",
+    "focusAreas": [
+      {
+        "id": "env-chemistry",
+        "title": "Environmental Chemistry",
+        "tag": "Core Focus",
+        "icon": "test-tube",
+        "description": "Assessing sources, distribution, and fate of persistent organic pollutants in environmental compartments using cutting-edge methodologies."
+      },
+      {
+        "id": "emerging-contaminants",
+        "title": "Emerging Contaminants",
+        "tag": "PFAS & Phthalates",
+        "icon": "shield-alert",
+        "description": "Studying contaminants of emerging concern such as PFAS and phthalates which are ubiquitous, persistent, bioaccumulative, and toxic in the environment."
+      },
+      {
+        "id": "env-health",
+        "title": "Environmental Health",
+        "tag": "Omics Approach",
+        "icon": "heart-pulse",
+        "description": "Understanding contaminant load and impacts on humans and animals through advanced analytical techniques (omics approach)."
+      }
+    ],
+    "analyticalMethods": {
+      "title": "Analytical Methods Development",
+      "description": "Our research is underpinned by advanced analytical methods based on mass spectrometry, ensuring high accuracy and sensitivity in contaminant detection and quantification:",
+      "methods": [
+        {
+          "name": "Gas Chromatography-Mass Spectrometry (GC-MS)",
+          "badge": "GC-MS",
+          "detail": "High-resolution separation and detection of volatile and semi-volatile persistent organic contaminants."
+        },
+        {
+          "name": "Liquid Chromatography-Mass Spectrometry (LC-MS)",
+          "badge": "LC-MS/MS & HRMS",
+          "detail": "Targeted and non-targeted analysis (NTA) for comprehensive screening and quantification of emerging contaminants like PFAS."
+        },
+        {
+          "name": "Method Optimization and Validation",
+          "badge": "QA / QC",
+          "detail": "Rigorous analytical protocol validation, matrix effect assessment, and standard operating procedures for complex environmental matrices."
+        }
+      ]
+    },
+    "laboratoryImages": [
+      {
+        "url": "https://cdn.gamma.app/bxj46mkc73l5cai/e0d6ddb4d0e44acdb298e69c9366a2d1/original/DSC_898911.jpg",
+        "caption": "Analytical instrumentation and mass spectrometry laboratory"
+      },
+      {
+        "url": "https://cdn.gamma.app/bxj46mkc73l5cai/9790ba8e66ab4e779bd3ecd8a0897d33/original/DSC_903311.jpg",
+        "caption": "Sample preparation and extraction workstation"
+      },
+      {
+        "url": "https://cdn.gamma.app/bxj46mkc73l5cai/0c88524eca1448ed97cbf84df684e4f5/original/DSC_905511.jpg",
+        "caption": "High-resolution mass spectrometry instrument setup"
+      },
+      {
+        "url": "https://cdn.gamma.app/bxj46mkc73l5cai/33ab016979f144c29615a6958224e9d3/original/DSC_896011.jpg",
+        "caption": "A researcher working with analytical equipment in a lab, focused on a monitor and machinery"
+      }
+    ]
+  },
+  "team": {
+    "sectionTitle": "Our Team",
+    "overview": "Dr. Quinete's lab is comprised of a diverse group of talented researchers dedicated to advancing environmental analytical chemistry. Our team brings together expertise from various fields and international backgrounds to tackle pressing environmental challenges.",
+    "categories": [
+      {
+        "id": "postdocs",
+        "categoryName": "Current Postdocs",
+        "members": [
+          {
+            "name": "Luciana Teresa Dias Cappelini",
+            "role": "Postdoc, Institute of Environment",
+            "researchFocus": "NTA Solution Project funded by EPA STAR",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/rkurNdeXlr-ZHJHmYOv9z.jpg"
+          },
+          {
+            "name": "Macarena Rojo",
+            "role": "Postdoctoral Research Associate, Institute of Environment",
+            "researchFocus": "PFAS research with LC-MS/MS and HRMS",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/epDXkM0pVtW59Wo8G5YQH.jpeg"
+          },
+          {
+            "name": "Maria Eugenia Guerra de Navarro",
+            "role": "Postdoctoral Researcher, Institute of Environment",
+            "researchFocus": "PFAS detection in urban aquatic environments",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/405512d826d14e928ea97e5152d08285/original/Maria-Eugenia.jpg"
+          }
+        ]
+      },
+      {
+        "id": "phd",
+        "categoryName": "Current PhD Students",
+        "members": [
+          {
+            "name": "Carolina Cuchimaque Lugo",
+            "role": "PhD student, Chemistry & Biochemistry",
+            "researchFocus": "PFAS in drinking water and human blood using LC-MS/MS",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/03d515861b384d70b721d12e6d1a41af/original/Carolina.jpg"
+          },
+          {
+            "name": "Joshua Ocheje",
+            "role": "PhD student, Chemistry & Biochemistry",
+            "researchFocus": "LC-MS/MS methods for PFAS in biosolids and e-waste, and PFAS removal by MOFs",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/574a6cf7393b48619be445d1182a079b/original/Joshua-Ocheje.jpg"
+          },
+          {
+            "name": "Grace Obiyo",
+            "role": "PhD student, Biology (co-advised with Jeremy Kiska)",
+            "researchFocus": "PFAS and Phthalates in marine mammals",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/0c2d47d5e1b546bbb8731cd0ab2260b9/original/grace-obiyo-headshot.jpg"
+          },
+          {
+            "name": "Md. Abdur Razzaq",
+            "role": "PhD student, Chemistry & Biochemistry",
+            "researchFocus": "SPME-GC-MS/MS for volatile FTOHs in air and PFAS modelling in surface and groundwater",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/7b6954198e844237a18c9ca9d5be839a/original/Abdur.jpg"
+          },
+          {
+            "name": "Maria Mendoza Manzano",
+            "role": "PhD student, Chemistry & Biochemistry (NSF CREST PhD fellow)",
+            "researchFocus": "PFAS in compost and bioaccumulation in crops",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/8c0426a6ae724157abf1ae13d6318185/original/maria-mendoza-manzano.jpg"
+          },
+          {
+            "name": "Karina Bugan Debs Moreira",
+            "role": "PhD student Chemistry & Biochemistry (FIU Presidential PhD fellow)",
+            "researchFocus": "Fentanyl degradation in soil and PFAS partition in sediment and water",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/2349e312c62f43089e5567d4bb6bf840/original/Karina.jpg"
+          },
+          {
+            "name": "Md. Rubel Anwar",
+            "role": "PhD student Chemistry & Biochemistry (FIU Presidential PhD fellow)",
+            "researchFocus": "PFAS in stormwater, wastewater and urine samples.",
+            "imageUrl": null
+          },
+          {
+            "name": "Erick Dias Campanelli",
+            "role": "Visiting PhD student from Brazil , Institute of Environment",
+            "researchFocus": "PFAS accumulation in oysters and mussels.",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/edited-images/tQhKZMezRSt9_SnHVMlwp.png"
+          }
+        ]
+      },
+      {
+        "id": "masters",
+        "categoryName": "Master's Student",
+        "members": [
+          {
+            "name": "Andy Distrubell",
+            "role": "Master's student, Earth and Environment (co-advised with Jennifer Rehage)",
+            "researchFocus": "Emerging contaminants (PFAS) in red drum fish",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/ab7356ca3c594739a80d495a6f308b4b/original/image.png"
+          }
+        ]
+      },
+      {
+        "id": "prior-postdocs",
+        "categoryName": "Prior Postdocs",
+        "members": [
+          {
+            "name": "Bahareh Tajdini",
+            "role": "Postdoc, Institute of Environment at FIU (August 2024 – January 2025)",
+            "researchFocus": "Elucidation of PFAS degradation by e-beam irradiation using targeted analysis, TOP assay and non-targeted analysis.",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/377a4f0598dc46d2bc1e0e9148afe0a2/original/B-postdoc.jpg"
+          },
+          {
+            "name": "Leila Lemos",
+            "role": "Postdoc, Institute of Environment at FIU (2020-2024)",
+            "researchFocus": "Cortisol, PFAS, and phthalate analysis in marine organisms, and coral lipidomic assessments.",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/f44e6e0c1cd4423b99730cab01f5c8ad/original/Leila.jpg"
+          },
+          {
+            "name": "Danni Cui",
+            "role": "Postdoctoral Associate (2020 – January 2023)",
+            "researchFocus": "Method development and determination of phthalates and PFAS in environmental matrices.",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/245f8123d19f4664bf6cc3ba59ad4363/original/Danni-300x225.jpg"
+          },
+          {
+            "name": "Joseph Cox",
+            "role": "Postdoc Associate (January 2022 – 2023)",
+            "researchFocus": "Developing new nontargeted analysis methodologies for estimating soil and dust rate ingestion in children.",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/156c2071ad974564886611e58705c31a/original/Joseph-Cox-11.jpg"
+          },
+          {
+            "name": "Sidney Sales Jr",
+            "role": "Visiting Postdoc, Institute of Environment",
+            "researchFocus": "PFAS detection in urban aquatic environments.",
+            "imageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/16da5d5f7eb548dfa12ce1313cf01f37/original/Imagem-do-WhatsApp-de-2025-07-23-a-s-11.44.18_40d37273.jpg"
+          }
+        ]
+      },
+      {
+        "id": "alumni",
+        "categoryName": "Graduated PhD and Master Students",
+        "members": [
+          {
+            "name": "Xuerong Li",
+            "role": "Alumni PhD / Master Student"
+          },
+          {
+            "name": "Olutobi Daniel Ogunbiyi",
+            "role": "Alumni PhD / Master Student"
+          },
+          {
+            "name": "Courtney Heath",
+            "role": "Alumni PhD / Master Student"
+          },
+          {
+            "name": "Andy Distrubell",
+            "role": "Alumni PhD / Master Student"
+          },
+          {
+            "name": "Maria Eugenia Guerra de Navarro",
+            "role": "Alumni PhD / Master Student"
+          }
+        ]
+      },
+      {
+        "id": "staff",
+        "categoryName": "Prior Staffs",
+        "members": [
+          {
+            "name": "Monica Perez",
+            "role": "Prior Research Staff"
+          },
+          {
+            "name": "Emily Meijas",
+            "role": "Prior Research Staff"
+          },
+          {
+            "name": "Lisandra Menendez",
+            "role": "Prior Research Staff"
+          }
+        ]
+      }
+    ]
+  },
+  "publications": {
+    "sectionTitle": "Publications",
+    "intro": "Below are selected publications from the group along the years (2020-2025). The complete list can be found here:",
+    "googleScholarUrl": "https://scholar.google.com/citations?hl=en&user=z697KEMAAAAJ&view_op=list_works&sortby=pubdate",
+    "categories": [
+      {
+        "name": "Aquatic & Water Quality",
+        "icon": "droplets",
+        "description": "Studies on PFAS in surface water, tap water, atmospheric wet deposition, and marine environments."
+      },
+      {
+        "name": "Analytical Method Development",
+        "icon": "flask",
+        "description": "Research focusing on advanced non-targeted analysis for chemical characterization and detection of contaminants."
+      },
+      {
+        "name": "Bioaccumulation & Marine Life",
+        "icon": "fish",
+        "description": "Investigations into the presence and effects of contaminants in marine organisms like fish, dolphins, oysters, and penguins."
+      },
+      {
+        "name": "Environmental Contamination",
+        "icon": "factory",
+        "description": "Research on pollutants in air, soil, household dust, e-waste, and biosolids."
+      },
+      {
+        "name": "Human Health & Exposure",
+        "icon": "baby",
+        "description": "Studies assessing human exposure to environmental contaminants, focusing on vulnerable populations."
+      }
+    ],
+    "items": [
+      {
+        "year": "2025",
+        "badge": "Air & PFAS",
+        "tags": [
+          "Environmental Contamination",
+          "Analytical Method Development"
+        ],
+        "citation": "Maria Guerra de Navarro, Mariana Botero, Caidence Brill, Richard Zurbaran, Natalia Quinete (2025). Assessment of particle-bound PFAS in ambient air from a coastal urban environment in South Florida. Journal of Hazardous Materials Volume 497, 5 October 2025, 139797.",
+        "doi": "https://doi.org/10.1016/j.jhazmat.2025.139797"
+      },
+      {
+        "year": "2025",
+        "badge": "Marine & Toxicology",
+        "tags": [
+          "Bioaccumulation & Marine Life"
+        ],
+        "citation": "Gebreab, Ariel Lawson, Giancarlos Garcia, Jessica Fox, Daniel Benetti, John D. Stieglitz, Natalia Soares Quinete and John P. Berry (2025). Bioconcentration and toxicity of perfluoroalkyl substances (PFAS) in embryonic stages of the ecologically and commercially relevant Olive Flounder (Paralichthys olivaceus), and the zebrafish (Danio rerio) embryo model system. Ecotoxicology.",
+        "doi": "https://doi.org/10.1007/s10646-025-02891-y"
+      },
+      {
+        "year": "2025",
+        "badge": "Surface Water",
+        "tags": [
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Courtney Heath, Amy Castaneda, Edward Ornstein, Maria Guerra de Navarro, Brendan McNamee, Sergio Najera, Daniel Calzadilla, Natalia Quinete (2025). Per- and Polyfluoroalkyl Substances (PFAS) Composition and Distribution in Surface Water of the Miccosukee Indian Reservation, Everglades and Tributaries in the Coastal Environment of Miami, Florida. Environ Res. 2025 Apr 15;278:121627.",
+        "doi": "https://doi.org/10.1016/j.envres.2025.121627"
+      },
+      {
+        "year": "2025",
+        "badge": "E-Waste & Leaching",
+        "tags": [
+          "Environmental Contamination"
+        ],
+        "citation": "Natalia Quinete, Berrin Tansel, Yelena Katsenovich, Joshua Ocheje, Maria Mendonza Manzano, Zariah Nasir (2025). Leaching profile of per- and polyfluoroalkyl substances from selected e-waste components and potential exposure pathways from discarded components. Journal of Hazardous Materials, Volume 491, 5, 137953.",
+        "doi": ""
+      },
+      {
+        "year": "2025",
+        "badge": "Soil & Dust NTA",
+        "tags": [
+          "Environmental Contamination",
+          "Human Health & Exposure"
+        ],
+        "citation": "Luciana Teresa Dias Cappelini, Olutobi Daniel Ogunbiyi, Vinícius Guimarães Ferreira, Carolina Cuchimaque Lugo, Monica Beatriz Perez, Mymuna Monem, Florence George, Piero Gardinali, Daniel M. Bagner, Natalia Quinete (2024/2025). Monitoring Emerging Contaminants in Soil and Household Dust Samples by Non-Targeted Analysis in the Greater Miami area, Florida. J AOAC Int. 2025 Feb 24:qsaf012. doi: 10.1093/jaoacint/qsaf012.",
+        "doi": "https://doi.org/10.1093/jaoacint/qsaf012"
+      },
+      {
+        "year": "2025",
+        "badge": "Children's Exposure",
+        "tags": [
+          "Human Health & Exposure"
+        ],
+        "citation": "Dias Cappelini LT, Ogunbiyi OD, Guimarães Ferreira V, Monem M, Cuchimaque Lugo C, Perez MB, Gardinali P, George F, Bagner DM, Quinete N (2025). Assessing Variability in Children’s Exposure to Contaminants in Food: A Longitudinal Non-Targeted Analysis Study in Miami, Florida. J Xenobiot. 2025 Jan 14;15(1):11. doi: 10.3390/jox15010011",
+        "doi": "https://doi.org/10.3390/jox15010011"
+      },
+      {
+        "year": "2024",
+        "badge": "Biosolids & PFAS",
+        "tags": [
+          "Environmental Contamination",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Yelena Katsenovich, Berrin Tansel, Natalia Soares Quinete, Zariah Nasir, Joshua Omaojo Ocheje, Maria Mendoza Manzano (2024). Leaching profile of per- and polyfluoroalkyl substances (PFAS) from biosolids after thickening, anaerobic digestion, and dewatering processes, and significance of protein, phosphorus, and selected ions. Sci Total Environ. 957, 20: 177777.",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2024.177777"
+      },
+      {
+        "year": "2024",
+        "badge": "Atmospheric Deposition",
+        "tags": [
+          "Aquatic & Water Quality",
+          "Environmental Contamination"
+        ],
+        "citation": "Maria Guerra de Navarro, Yosmely Reyna, and Natalia Quinete (2024). It’s raining PFAS in South Florida: Occurrence of poly- and perfluoroalkyls substances (PFAS) in wet atmospheric deposition from Miami-Dade, South Florida. Atmospheric Research Volume 15, Issue 12, 102302. doi: 10.1016/j.apr.2024.102302.",
+        "doi": "https://doi.org/10.1016/j.apr.2024.102302"
+      },
+      {
+        "year": "2024",
+        "badge": "Analytical Protocol",
+        "tags": [
+          "Analytical Method Development",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Joshua Omaojo Ocheje, Maria Mendoza Manzano, Zariah Nasir, Yelena Katsenovich, Berrin Tansel, Shyam Sivaprasad, Natalia Quinete (2024). Analytical protocol for detection and prioritization of per- and polyfluoroalkyl substances (PFAS) in biosolid leachates. Journal of Water Process Engineering Volume 68, 106546.",
+        "doi": "https://doi.org/10.1016/j.jwpe.2024.106546"
+      },
+      {
+        "year": "2024",
+        "badge": "Marine Mammals",
+        "tags": [
+          "Bioaccumulation & Marine Life"
+        ],
+        "citation": "Leila S. Lemos, Estela Manfrin da Silva, Karen J. Steinman, Todd R. Robeck, Natalia Quinete. (2024) Assessment of per- and poly-fluoroalkyl substances and their relationship to physiological biomarkers in aquarium-based bottlenose dolphins and killer whales. Chemosphere 364:143038. doi: 10.1016/j.chemosphere.2024.143038.",
+        "doi": "https://doi.org/10.1016/j.chemosphere.2024.143038"
+      },
+      {
+        "year": "2024",
+        "badge": "Recreational Fisheries",
+        "tags": [
+          "Bioaccumulation & Marine Life",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Olutobi Daniel Ogunbiyi, Leila S. Lemos, Richard P. Brinn and Natalia Quinete (2024). Bioaccumulation Potentials of Per-and poly fluoroalkyl substances (PFAS) in Recreational fisheries: Occurrence, Health risk assessment and Oxidative stress biomarkers in Coastal Biscayne Bay. Environ Res. 263(Pt 2):120128. doi: 10.1016/j.envres.2024.120128.",
+        "doi": "https://doi.org/10.1016/j.envres.2024.120128"
+      },
+      {
+        "year": "2024",
+        "badge": "Water Profiles",
+        "tags": [
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Ogunbiyi OD, Massenat N, Quinete N (2024). Dispersion and stratification of Per-and polyfluoroalkyl substances (PFAS) in surface and deep-water profiles: A case study of the Biscayne Bay area. Sci Total Environ. 909:168413. doi: 10.1016/j.scitotenv.2023.168413.",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2023.168413"
+      },
+      {
+        "year": "2023",
+        "badge": "Fish Biomarkers",
+        "tags": [
+          "Bioaccumulation & Marine Life"
+        ],
+        "citation": "Lemos, L.S.; Angarica, L.M.; Hauser-Davis, R.A.; Quinete, N (2023). Cortisol as a Stress Indicator in Fish: Sampling Methods, Analytical Techniques, and Organic Pollutant Exposure Assessments. Int. J. Environ. Res. Public Health 20, 6237.",
+        "doi": "https://doi.org/10.3390/ijerph20136237"
+      },
+      {
+        "year": "2023",
+        "badge": "NTA Chemical Characterization",
+        "tags": [
+          "Analytical Method Development",
+          "Human Health & Exposure"
+        ],
+        "citation": "Cui, D., Cox, J., Mejias, E. et al. Evaluating non-targeted analysis methods for chemical characterization of organic contaminants in different matrices to estimate children’s exposure. J Expo Sci Environ Epidemiol (2023).",
+        "doi": "https://doi.org/10.1038/s41370-023-00547-9"
+      },
+      {
+        "year": "2023",
+        "badge": "NTA Screening in Water",
+        "tags": [
+          "Analytical Method Development",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Li, X., Cui, D., Ng, B., Ogunbiyi, O. D., Guerra de Navarro, M., Gardinali, P., & Quinete, N. (2023). Non-targeted analysis for the screening and semi-quantitative estimates of per-and polyfluoroalkyl substances in water samples from South Florida environments. Journal of Hazardous Materials, 452, 131224.",
+        "doi": "https://doi.org/10.1016/j.jhazmat.2023.131224"
+      },
+      {
+        "year": "2023",
+        "badge": "Food Screening Review",
+        "tags": [
+          "Analytical Method Development"
+        ],
+        "citation": "Ogunbiyi, O. D., Ajiboye, T. O., Omotola, E. O., Oladoye, P. O., Olanrewaju, C. A., & Quinete, N. (2023). Analytical approaches for screening of per- and poly fluoroalkyl substances in food items: A review of recent advances and improvements. Environmental Pollution, 329, 121705.",
+        "doi": "https://doi.org/10.1016/j.envpol.2023.121705"
+      },
+      {
+        "year": "2022",
+        "badge": "Spatial Distribution",
+        "tags": [
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Xuerong Li, Morgan Fatowe, Leila Soledade Lemos, Natalia Quinete (2022). Spatial Distribution of Per-and Polyfluoroalkyl Substances (PFAS) in Waters from Central and South Florida. Environmental Science and Pollution Research.",
+        "doi": ""
+      },
+      {
+        "year": "2022",
+        "badge": "Phthalates in Waters",
+        "tags": [
+          "Aquatic & Water Quality",
+          "Analytical Method Development"
+        ],
+        "citation": "Danni Cui, Melissa Ricardo, Natalia Quinete (2022). A novel report on phthalates levels in Biscayne Bay surface waters and drinking water from South Florida. Marine Pollution Bulletin, Volume 180, 113802.",
+        "doi": ""
+      },
+      {
+        "year": "2022",
+        "badge": "Oysters as Bioindicators",
+        "tags": [
+          "Bioaccumulation & Marine Life",
+          "Analytical Method Development"
+        ],
+        "citation": "Leila Lemos, Laura Gantiva, Catherine Kaylor, Alessandra Sanchez, Natalia Quinete (2022) American oysters as bioindicators of emerging organic contaminants in Florida, United States, Science of The Total Environment, 155316.",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2022.155316"
+      },
+      {
+        "year": "2022",
+        "badge": "Tap & Surface Waters",
+        "tags": [
+          "Analytical Method Development",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Xuerong Li, Morgan Fatowe, Danni Cui, Natalia Quinete (2022). Assessment of per- and polyfluoroalkyl substances in Biscayne Bay surface waters and tap waters from South Florida. Science of The Total Environment, volume 806, part 1, 150393.",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2021.150393"
+      },
+      {
+        "year": "2021",
+        "badge": "Differential Ionization",
+        "tags": [
+          "Analytical Method Development",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "Brian Ng, Natalia Quinete, Piero Gardinali (2021). Differential Organic Contaminant Ionization Source Detection and Identification in Environmental Waters by Non-targeted Analysis. Environmental Toxicology and Chemistry. Environ Toxicol Chem, 41: 1154-1164.",
+        "doi": "https://doi.org/10.1002/etc.5268"
+      },
+      {
+        "year": "2021",
+        "badge": "Coral Lipidomics",
+        "tags": [
+          "Bioaccumulation & Marine Life",
+          "Analytical Method Development"
+        ],
+        "citation": "Lugo Charriez K., Lemos L.S., Carrazana Y., Rodriguez-Casariego J.A. , Eirin-Lopez J.M., Hauser-Davis R.A., Gardinali P., Quinete N (2021). Application of an Improved Chloroform-Free Lipid Extraction Method to Staghorn Coral (Acropora cervicornis) Lipidomics Assessments, Bulletin of Environmental Contamination & Toxicology.",
+        "doi": "https://doi.org/10.1007/s00128-020-03078-3"
+      },
+      {
+        "year": "2021",
+        "badge": "Coastal Pollutants",
+        "tags": [
+          "Aquatic & Water Quality",
+          "Analytical Method Development"
+        ],
+        "citation": "Brian Ng, Natalia Quinete, Stephanie Maldonado, Kathleen Lugo, Julian Purrinos, Henry Briceño, Piero Gardinali (2021). Understanding the occurrence and distribution of emerging pollutants and endocrine disruptors in sensitive coastal South Florida Ecosystems, Science of The Total Environment, volume 757, 143720.",
+        "doi": "https://doi.org/10.1016/j.scitotenv.2020.143720"
+      },
+      {
+        "year": "2021",
+        "badge": "Drinking Water & Immune System",
+        "tags": [
+          "Aquatic & Water Quality",
+          "Human Health & Exposure"
+        ],
+        "citation": "Quinete, N., Hauser-Davis, R.A (2021). Drinking water pollutants may affect the immune system: concerns regarding COVID-19 health effects. Environ Sci Pollut Res 28(1):1235-1246.",
+        "doi": "https://doi.org/10.1007/s11356-020-11487-4"
+      },
+      {
+        "year": "2020",
+        "badge": "Penguins & POPs",
+        "tags": [
+          "Bioaccumulation & Marine Life"
+        ],
+        "citation": "N. Quinete, R.A. Hauser-Davis, L. S. Lemos, J.F. Moura, S. Siciliano, P.R. Gardinali (2020). Occurrence and tissue distribution of organochlorinated compounds and polycyclic aromatic hydrocarbons in Magellanic penguins (Spheniscus magellanicus) from the southeastern coast of Brazil. STOTEN volume 749, 141473 .",
+        "doi": ""
+      },
+      {
+        "year": "2020",
+        "badge": "PFAS Review in Florida",
+        "tags": [
+          "Environmental Contamination",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "D. Cui, X. Li, N. Quinete (2020). Occurrence, fate, sources and toxicity of PFAS: What we know so far in Florida and major gaps, Trends Anal. Chem. 115976. In Press. doi:10.1016/j.trac.2020.115976.",
+        "doi": "https://doi.org/10.1016/j.trac.2020.115976"
+      },
+      {
+        "year": "2020",
+        "badge": "Degradation of Flame Retardants",
+        "tags": [
+          "Analytical Method Development",
+          "Aquatic & Water Quality"
+        ],
+        "citation": "A M Abdullah; Natalia Soares Quinete; Piero Gardinali; Kevin O’Shea (2020). Investigation of ultrasonically induced degradation of tris (2-chloroethyl) phosphate in water. ASCE’s Journal of Environmental Engineering 146 (10).",
+        "doi": "https://doi.org/10.1061/(ASCE)EE.1943-7870.0001793"
+      },
+      {
+        "year": "2019",
+        "badge": "Quality Controls for NTA",
+        "tags": [
+          "Analytical Method Development"
+        ],
+        "citation": "Brian Ng, Natalia Quinete, Piero Gardinali (2019). Assessing accuracy, precision and selectivity using quality controls for non-targeted analysis. Science of The Total Environment, volume 713, 136568.",
+        "doi": ""
+      }
+    ]
+  },
+  "grantsAndProjects": {
+    "sectionTitle": "Fundings & News",
+    "grantsSubtitle": "Major Grants",
+    "grants": [
+      {
+        "agency": "EPA-STAR",
+        "amount": "$1.2M",
+        "period": "2021-2024",
+        "title": "Children's chemical exposures from soil and dust",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/053ab5808e1b4137b63acc6643a0a708/original/375x250_epa_seal_white_ring.png"
+      },
+      {
+        "agency": "U.S. Department of Energy (DOE)",
+        "amount": "$700,000",
+        "period": "2024-2026",
+        "title": "Study novel MOFs as promising sorbents for PFAS removal from groundwater",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/75c3ec636899468e9bf91a9b1b0b0d2e/original/US_DOE_Logo.jpg"
+      },
+      {
+        "agency": "EPA Region 4",
+        "amount": "$375,000",
+        "period": "2025-2027",
+        "title": "Integrated Watershed Monitoring and Predictive Modeling for PFAS Transport in Water Systems",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/053ab5808e1b4137b63acc6643a0a708/original/375x250_epa_seal_white_ring.png"
+      },
+      {
+        "agency": "Hinkley Center for Solid and Hazardous Waste Management",
+        "amount": "$70,000",
+        "period": "2023, co-PI",
+        "title": "Research on solid and hazardous waste management",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/0deb48fcc86c408eb5c4d08bbf11961e/original/images.jpg"
+      },
+      {
+        "agency": "Hinkley Center",
+        "amount": "$50,000",
+        "period": "2024-2025",
+        "title": "PFAS content in biosolids and composts produced at wastewater treatment plants",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/0deb48fcc86c408eb5c4d08bbf11961e/original/images.jpg"
+      },
+      {
+        "agency": "National Science Foundation (NSF Award)",
+        "amount": "$60,000",
+        "period": "2023-2026",
+        "title": "Collaborative Research on High Entropy Alloy Electrocatalysts",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/f55db47c07f046af8b61331d05a326d0/original/images.png"
+      },
+      {
+        "agency": "State of Florida / UM Firefighter Cancer Initiative",
+        "amount": "$20,000",
+        "period": "2022",
+        "title": "Firefighter Cancer Initiative chemical exposure assessments",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/38f0fb2a94ad4f468c1ae516362d1253/original/SERDP-inline-1024x269.jpg"
+      },
+      {
+        "agency": "ForEverglades Research Enhancement Grant",
+        "amount": "Student Award",
+        "period": "2025–26",
+        "title": "Student award Preetika Chand",
+        "link": "https://www.linkedin.com/in/preetika-chand?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABOOhooBYOiWZfcm2nGZIte3cF4fzdyBEZI&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BAY5Wp1zRTgWhKAkhpkgmNw%3D%3D",
+        "logoUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/490b1d437c8741cb8043ea4a79886ce9/original/USCCC608.jpg"
+      }
+    ],
+    "mediaSubtitle": "Recent Media Coverage",
+    "media": [
+      {
+        "type": "tv",
+        "title": "FIU receives $1.2 million from EPA to study children's chemical exposure",
+        "outlet": "Television & News"
+      },
+      {
+        "type": "news",
+        "title": "Toxic 'forever chemicals' found in tap water raise questions for scientists",
+        "outlet": "Science News"
+      },
+      {
+        "type": "news",
+        "title": "Florida oysters found to have toxic \"forever chemicals\"",
+        "outlet": "Environmental News"
+      },
+      {
+        "type": "news",
+        "title": "Chemicals taint Biscayne Bay oysters - Miami Herald coverage",
+        "outlet": "Miami Herald"
+      },
+      {
+        "type": "tv",
+        "title": "Forever Chemical accumulation in deer and fish - CBS News",
+        "outlet": "CBS News"
+      },
+      {
+        "type": "news",
+        "title": "\"It's literally raining 'forever chemicals' in Miami\" - FIU News (2024)",
+        "detail": "Research found PFAS in Miami's rainwater, showing atmospheric transport of these pollutants",
+        "outlet": "FIU News"
+      },
+      {
+        "type": "tv",
+        "title": "\"How some South Florida cities are tackling forever chemicals in water\" - NBC Miami (2024)",
+        "detail": "Coverage of local water treatment efforts and new national drinking water standards for PFAS",
+        "outlet": "NBC Miami"
+      }
+    ]
+  },
+  "postersAndPresentations": {
+    "sectionTitle": "Posters and Presentations",
+    "overview": "Dr. Quinete's research group actively disseminates its findings through various platforms, from invited talks at international conferences to student-led poster sessions. This commitment to sharing knowledge reflects the breadth and impact of their work in environmental analytical chemistry. Below is a detailed breakdown of our presentations over the years.",
+    "presentationYears": [
+      {
+        "year": "2024",
+        "items": [
+          "Combining Target and Non-Targeted Approaches for PFAS characterization in recreational fisheries - Barcelona, Spain (October)",
+          "Overview of PFAS in Aquatic Environments - PFAS Forum IV, Orlando, FL (May)",
+          "Prevalence of PFAS in Recreational Fisheries from Coastal Biscayne Bay - Atlanta, GA (April)",
+          "Multiple SETAC North America presentations in Fort Worth, Texas (October)",
+          "NACRW presentations in Fort Lauderdale, FL (July)"
+        ]
+      },
+      {
+        "year": "2023",
+        "items": [
+          "Beyond the traditional targeted approach: Developing a Non-Targeted Analysis workflow - DoD Energy & Environment Innovation Symposium, Arlington, VA",
+          "Overview of PFAS in South Florida aquatic environments - Buffalo, NY Workshop",
+          "Multiple SETAC North America presentations in Louisville, KY",
+          "NACRW presentations in Fort Lauderdale, FL"
+        ]
+      },
+      {
+        "year": "2022",
+        "items": [
+          "Concerns regarding exacerbated COVID-19 health effects due to exposure to common drinking water pollutants - Morehouse School of Medicine",
+          "Non-Targeted Analysis for the Screening of PFAS - Durham, NC",
+          "Multiple SETAC presentations in Pittsburgh, PA",
+          "REU Program presentations"
+        ]
+      },
+      {
+        "year": "2021",
+        "items": [
+          "Assessing forever chemicals in South Florida environments: Should we be concerned? - Virtual SEGER Symposium",
+          "Multiple SETAC North America virtual presentations",
+          "17th Annual HRMS Workshop presentations",
+          "FIU Undergraduate Research Conference"
+        ]
+      },
+      {
+        "year": "2020",
+        "items": [
+          "Application of a chloroform-free lipid extraction method to Staghorn Coral Lipidomics assessments - 16th HRMS Workshop",
+          "SETAC North America virtual presentations on PFAS and phthalates"
+        ]
+      }
+    ],
+    "keyConferences": [
+      "SETAC North America (2020-2024): Consistent annual participation with multiple presentations",
+      "Annual Workshop on Emerging HRMS and LC-MS/MS Applications (2020-2024)",
+      "North American Chemical Residue Workshop (NACRW) (2023-2024)",
+      "DoD Energy & Environment Innovation Symposium"
+    ],
+    "studentHighlights": [
+      "REU students presenting at national conferences",
+      "Undergraduate Research Conference (URFIU) presentations",
+      "REU Program Symposiums (2021-2022)",
+      "Student poster awards and recognition",
+      "International collaboration presentations"
+    ],
+    "galleryNote": "Our collaborative environment fosters a culture of active participation in scientific discussions and networking, encouraging both senior researchers and students to present their innovative work. Here are some of our poster presentations.",
+    "posterImages": [
+      "https://cdn.gamma.app/bxj46mkc73l5cai/bff3b0b6c42a4de7bfe9fb45ef25ec2b/original/WhatsApp-Image-2024-01-17-at-2.19.58-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/34fc3b0b6c42a4de7bfe9fb45ef25ec2b/original/WhatsApp-Image-2024-01-17-at-2.19.14-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/271d678b3a7e4de6a468433f38679aa8/original/WhatsApp-Image-2024-01-17-at-2.19.25-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/d10a7ef1945648119dba95af2e816b9e/original/WhatsApp-Image-2024-01-17-at-2.20.30-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/00b79ddb718e4cab82f4b448999ba134/original/WhatsApp-Image-2024-01-17-at-2.20.17-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/12eb4c510a16481b8fdc060e9816e557/original/WhatsApp-Image-2024-04-06-at-10.02.55-AM-2.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/c1db34bb3fd64d87853a9e42b6ff8a93/original/WhatsApp-Image-2022-11-16-at-9.01.47-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/dd190377933e4b76aec49068ecc231b3/original/CREST-II-meeting.jpg"
+    ]
+  },
+  "teaching": {
+    "sectionTitle": "Teaching",
+    "intro": "Dr. Quinete is deeply committed to education, fostering the next generation of scientists through comprehensive instruction at both graduate and undergraduate levels. Her courses integrate fundamental chemical principles with advanced analytical techniques and real-world environmental applications.",
+    "graduateCourses": [
+      {
+        "code": "CHM 5765-U01",
+        "name": "Aquatic Chemistry"
+      }
+    ],
+    "undergraduateCourses": [
+      {
+        "code": "CHM 45165",
+        "name": "Sampling and Chemometrics"
+      },
+      {
+        "code": "CHM 4130",
+        "name": "Instrumental Analysis"
+      },
+      {
+        "code": "CHM 4910L",
+        "name": "Undergraduate Research"
+      },
+      {
+        "code": "CHM 4930",
+        "name": "Senior Seminar"
+      }
+    ],
+    "classroomImageUrl": "https://cdn.gamma.app/bxj46mkc73l5cai/21435a2d902b443ba01012ae5488549b/original/image.png"
+  },
+  "groupPictures": {
+    "sectionTitle": "Pictures of the Group",
+    "intro": "Our vibrant research group thrives on collaboration and shared passion for environmental analytical chemistry. These photos capture our team's dynamic spirit, showcasing our laboratory work, conference presentations, and time spent together as a unified group.",
+    "outro": "These images highlight how our diverse backgrounds and expertise fuel innovative solutions to complex environmental challenges. We believe in fostering a supportive and engaging environment for all our members.",
+    "images": [
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/q6O4bQNuinUNHgytXkmGj.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/sGfQDqstYXdrl1C6KGKZO.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/lcNYUhaxvQpFYvEvs2Aa8.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/koz6e5Qm1qEILZ6IezqRV.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/6bxkkRKyS23pneRIki6yp.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/CbeHhe4QQPBzKEpf-aF6-.jpg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/ofPco00dtFWMo6m3-Kyws.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/2U4JkHbNbenpgPSOzEEUO.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/gRxWYtD83tvhGFQ4Cwwp8.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/uploaded-images/hU003j3HHGXyS6vQ7DdW8.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/9c1a6093956f4fd992e176e6957afed1/original/image.png",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/9c6219a051fc4cc4b65c38d6c0aa636c/original/image.png",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/e34e38f7d15d4fdea90c65af16950ab8/original/image.png",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/4f8eaa6fc2e1400c99567ddc1c6f442f/original/image.png",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/22d3b263d78241448521316d1930007b/original/image2.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/3a04b91c4ecc44f7ae1939b85eae7824/original/WhatsApp-Image-2025-11-10-at-12.53.29-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/6550c8f7bce949b3ba30b6cd9ca5480f/original/WhatsApp-Image-2025-11-10-at-12.51.13-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/cb139f304dd34d9da5cf9f5243052292/original/Picture1.jpg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/dd33c11139434f518a1c2548e3e5924d/original/WhatsApp-Image-2025-11-07-at-5.40.40-PM.jpeg",
+      "https://cdn.gamma.app/bxj46mkc73l5cai/6e68774a67664720bb18046646d8b249/original/WhatsApp-Image-2025-11-07-at-5.40.31-PM.jpeg"
+    ]
+  }
+}

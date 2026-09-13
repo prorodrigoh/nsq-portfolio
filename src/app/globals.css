@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+:root {
+  --canvas-bg: #EDF1F8;
+  --card-bg: #FBFCFE;
+  --text-main: #15213F;
+  --accent-blue: #476FD6;
+  --accent-navy: #1C3F99;
+  --fiu-navy: #081E3F;
+  --fiu-gold: #B6862C;
+  --fiu-gold-light: #D4A017;
+  --slate-muted: #4B5563;
+  --border-subtle: #D8E2EE;
+}
+
+@theme {
+  --color-canvas: #EDF1F8;
+  --color-card: #FBFCFE;
+  --color-text-main: #15213F;
+  --color-accent-blue: #476FD6;
+  --color-accent-navy: #1C3F99;
+  --color-fiu-navy: #081E3F;
+  --color-fiu-gold: #B6862C;
+  --color-fiu-gold-light: #D4A017;
+  --color-slate-muted: #4B5563;
+  --color-border-subtle: #D8E2EE;
+  
+  --font-heading: var(--font-roboto-slab), Georgia, serif;
+  --font-body: var(--font-roboto), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background-color: var(--canvas-bg);
+  color: var(--text-main);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-heading);
+}
+
+/* Custom modern scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #EDF1F8;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Subtle card hover transition */
+.glass-card {
+  background: rgba(251, 252, 254, 0.95);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(216, 226, 238, 0.8);
+  box-shadow: 0 4px 20px -2px rgba(21, 33, 63, 0.05);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px -4px rgba(21, 33, 63, 0.1);
+  border-color: rgba(71, 111, 214, 0.35);
+}
